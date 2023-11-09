@@ -1,0 +1,25 @@
+network_id,working_name,color_description,r,g,b
+0,Unassigned,gray,128,128,128
+1,Posterior default mode,red,255,0,0
+2,Anterior default mode,watermelon,235,61,84
+3,Superior precuneus,hot pink,255,26,185
+4,Posterior fronto-parietal,yellow,230,230,0
+5,Anterior fronto-parietal,white,255,255,255
+6,Inferior fronto-parietal,cream,255,253,208
+7,Precentral fronto-parietal,mustard,252,194,0
+8,Lateral orbito-frontal,citron,237,255,176
+9,Medial orbito-frontal,UCLA blue,79,123,176
+10,Salience,black,0,0,0
+11,Ventral attention,teal,0,153,153
+12,Cingulate,toothpaste,0,255,193
+13,Dorsal attention,green,0,204,0
+14,Premotor,pink,255,153,255
+15,Premotor,sage,0,102,0
+16,Inferior precuneus,royal blue,0,0,255
+17,Anterior precuneus,lime,165,255,80
+18,Medial visual,tan,255,179,102
+19,Lateral visual,dark blue,0,0,153
+20,Auditory,purple,153,51,255
+21,Insula,plum,148,0,108
+22,MotorHand,cyan,0,255,255
+23,MotorMouth,orange,255,128,0
