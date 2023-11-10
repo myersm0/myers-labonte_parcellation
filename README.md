@@ -9,3 +9,5 @@ Several files included here complement the dlabel file above:
 - `network_info.csv` is a tabular file listing the distinct integer network assignments, along with supplementary information such as RGB color values
 
 The parcellation code is available [here](https://github.com/myersm0/WatershedParcellation.jl), a Julia adaptation of the original MATLAB code from Evan Gordon and Tim Laumann.
+
+![Parcels](https://github.com/myersm0/myers-labonte_parcellation/blob/main/consensus_modified.png "Parcels colored by network assignment")
