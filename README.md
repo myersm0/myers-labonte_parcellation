@@ -10,4 +10,4 @@ Several files included here complement the dlabel file above:
 
 The parcellation code is available [here](https://github.com/myersm0/WatershedParcellation.jl), a Julia adaptation of the original MATLAB code from Evan Gordon and Tim Laumann.
 
-![Parcels](https://github.com/myersm0/myers-labonte_parcellation/blob/main/consensus_modified.png "Parcels colored by network assignment")
+![Parcels](https://github.com/myersm0/myers-labonte_parcellation/blob/main/consensus_modified_very-inflated.png "Parcels colored by network assignment")
