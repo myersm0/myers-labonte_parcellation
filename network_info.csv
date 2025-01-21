@@ -13,8 +13,8 @@ network_id,working_name,color_description,r,g,b
 11,Ventral attention,teal,0,153,153
 12,Cingulate,toothpaste,0,255,193
 13,Dorsal attention,green,0,204,0
-14,Premotor,pink,255,153,255
-15,Premotor,sage,0,102,0
+14,Posterior Premotor,pink,255,153,255
+15,Anterior Premotor,sage,0,102,0
 16,Inferior precuneus,royal blue,0,0,255
 17,Anterior precuneus,lime,165,255,80
 18,Medial visual,tan,255,179,102
